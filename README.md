@@ -7,3 +7,4 @@ De front-end-koade fan 'e webside is iepen boarne, wolkom om te helpen de oerset
 * [front-end koade](https://github.com/xxai-art/web)
 * [Taalpakketten foar de side as gehiel](https://github.com/xxai-art/web/tree/main/i18n)
 * [Taalpakketten foar oanmeldmodules](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Webside Meartalige dokumintaasje](https://github.com/xxai-doc)
