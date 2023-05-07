@@ -2,9 +2,9 @@
 
 * [Webside Meartalige dokumintaasje](https://github.com/xxai-doc)
 
-De front-end-koade fan 'e webside is iepen boarne, wolkom om te helpen de oersetting te optimalisearjen
+De frontend-koade fan 'e webside is iepen boarne, wolkom om te helpen de oersetting te optimalisearjen
 
-* [front-end koade](https://github.com/xxai-art/web)
+* [Frontend Code](https://github.com/xxai-art/web)
 * [Taalpakketten foar de side as gehiel](https://github.com/xxai-art/web/tree/main/i18n)
 * [Taalpakketten foar oanmeldmodules](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Webside Meartalige dokumintaasje](https://github.com/xxai-doc)
