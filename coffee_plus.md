@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , foegje guon funksjes ta op basis fan coffeescript-syntaksis, sjoch [coffee_plus](./coffee_plus.md) .
 
-* ferklearje fariabele
+## ferklearje fariabele
 
 ```
 + var1, var2
 ```
 
-* ferklearring label
+## ferklearring label
 
 `:$` is foar gebrûk mei [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* flugge ymport
+## flugge ymport
 
 ```
 > zx/globals:
