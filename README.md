@@ -17,14 +17,14 @@ De programmeartaal foar front-end is [@w5/coffee_plus](http://npmjs.com/@w5/coff
 
 Bouwe op de folgjende 3 projekten
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-It markdown-sjabloan, mei it efterheaksel `.mdt` , kin ferwize nei eksterne bestannen mei in syntaksis dy't fergelykber is mei `<+ ./coffee_plus/import.js>` .
+  It efterheaksel is `.mdt` , jo kinne de syntaksis brûke dy't fergelykber is mei `<+ ./coffee_plus/import.js>` om te ferwizen nei eksterne bestannen, en markdown generearje mei it efterheaksel `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-Markdown-oersetting sil gjin koades en keppelings oersette en oersette sinnen yn cache. As de oersetting wizige is, mar de oarspronklike tekst is net wizige, sil it opnij útfiere de wiziging fan de oersetting net oerskriuwe.
+  Markdown-oersetting sil gjin koades en keppelings oersette en oersette sinnen yn cache. As de oersetting wizige is, mar de oarspronklike tekst is net wizige, sil it opnij útfiere de wiziging fan de oersetting net oerskriuwe.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Taalbestannen foar it oersetten `yaml` generearre websiden.
+  Taalbestannen foar it oersetten `yaml` generearre websiden.
